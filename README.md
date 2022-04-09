@@ -38,14 +38,17 @@ How does replacing the ninth-grade scores affect the following:
 
 --Scores by school spending
 With the removal of the 9th grade scores, the overall passing percentage decreased from 62.9% to 56.4%.
+
 --Scores by school size
 Thomas High School is a medium sized school and no real findings after replacing math and reading. 
+
 --Scores by school type
 -- For the Charter, therefore, the changes were as follows:
-            - Average Math scores declined from 83.47 to 83.46.
+
+- Average Math scores declined from 83.47 to 83.46.
             - Average Reading scores were slightly higher: 83.89 compared to 83.9.
             - Percent Passing Math declined from 93.6 to 90.3.
             - Percent  Passing Reading declined from 96.6% to 93.1%.
             - Percent  Overall Passing decreased from 90.4% to 87.2%.
      - Math and reading scores by grade
-        - Thomas High School's math scores were removed from the 9th grade and all other scores remained the same.           
+     - Thomas High School's math scores were removed from the 9th grade and all other scores remained the same.           
