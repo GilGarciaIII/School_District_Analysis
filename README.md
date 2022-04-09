@@ -32,7 +32,7 @@ Average Percent Passing Math at Thomas greatly decreased from 93.3% to 66.9%.
 Percent Passing Reading at Thomas decreases from 97.3% to 69.7%.
 Average Percent Overall passing both Math and Reading decreased from 90.9% to 65.1%.
 
-##Summary
+## Summary
 
 How does replacing the ninth-grade scores affect the following:
 
