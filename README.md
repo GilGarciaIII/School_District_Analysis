@@ -18,6 +18,11 @@ Percent Passing Math moved from 75% to 74%.
 Percent Passing Reading moved from 86% to 85%.
 Percent Overall Passing moved from 65% to 64%.
  - Average Math Scores: moved from 79 to 78.9 as a result of taking out Thomas High School Ninth Grade scores.
+
+![Screen Shot 2022-04-08 at 11 47 28 PM (2)](https://user-images.githubusercontent.com/88943257/162560362-065c8caf-ca19-40da-a334-4aa2bea8ca2e.png)
+
+
+
  
 How is the school summary affected?
 
