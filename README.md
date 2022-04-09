@@ -15,9 +15,7 @@ Percent Passing Math moved from 75% to 74%.
 Percent Passing Reading moved from 86% to 85%.
 Percent Overall Passing moved from 65% to 64%.
  - Average Math Scores: moved from 79 to 78.9 as a result of taking out Thomas High School Ninth Grade scores.
-   
-   (resources/district_summary.png)
-
+ 
 How is the school summary affected?
 
 Average Math at Thomas decreased from 83.42 to 83.35.
@@ -26,7 +24,7 @@ Average Percent Passing Math at Thomas greatly decreased from 93.3% to 66.9%.
 Percent Passing Reading at Thomas decreases from 97.3% to 69.7%.
 Average Percent Overall passing both Math and Reading decreased from 90.9% to 65.1%.
 
-![Top Summary](resources/top_summary.png)
+![Top Summary]
 
 How does replacing the ninth-grade scores affect the following:
 
@@ -43,6 +41,3 @@ Thomas High School is a medium sized school and no real findings after replacing
             - Percent  Overall Passing decreased from 90.4% to 87.2%.
      - Math and reading scores by grade
         - Thomas High School's math scores were removed from the 9th grade and all other scores remained the same.           
-
-
-![School Summary](resources/school_summary.png)
