@@ -1,11 +1,14 @@
 # School_District_Analysis
 ## Overview of Project
 
-Maria and her supervisor have been contacted by the school board about evidence of academic dishonesty. students_complete.csv file  specifically 9th graders from Thomas High School for reading and math grades.  Although the school board does not know the whole extent of the academic dishonesty, they want to make sure the state-testing standards are met, and have turned to Maria to investage and help.
+Maria and her supervisor have been contacted by the school board about evidence of academic dishonesty. students_complete.csv file  specifically 9th graders from Thomas High School for reading and math grades.  Although the school board does not know the whole extent of the academic dishonesty, they want to make sure the state-testing standards are met, and have turned to Maria to help.
 
 ## Summary
 
-Maria wants to replace the math and reading scores for Thomas High School while keeping the rest of the data intact. When they are replaced, Maria would like you to repeat the school district analysis that you did in this module.   
+Maria wants to replace the math and reading scores for Thomas High School with NaN while keeping the rest of the data intact. When they are replaced, Maria would like you to repeat the school district analysis that you did in this module.   
+
+![Screen Shot 2022-04-08 at 11 38 41 PM (2)](https://user-images.githubusercontent.com/88943257/162560208-d00552b4-3eb5-4458-8798-87e2fdc16c07.png)
+
 
 ### Results / Analysis
 How is the district summary affected?
